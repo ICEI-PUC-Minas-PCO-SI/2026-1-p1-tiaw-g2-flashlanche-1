@@ -14,11 +14,11 @@ O contexto da aplicação é o ambiente das lanchonetes universitárias do campu
 
 O objetivo geral deste trabalho é desenvolver uma plataforma digital (site ou aplicativo) que permita realizar o pedido e o pagamento de forma antecipada, para que o aluno só precise passar na lanchonete para retirar o produto rapidamente, resolvendo o problema da indecisão e das filas.
 
-Otimizar o intervalo de 10 minutos: Garantir que o tempo de descanso seja suficiente para o aluno se alimentar e se deslocar entre os prédios sem chegar atrasado às aulas.
+Otimizar o intervalo de 10 minutos: Garantir que o tempo seja suficiente para o aluno se alimentar e se deslocar entre os prédios sem chegar atrasado às aulas.
 
-Reduzir a sobrecarga na equipe e no caixa: Eliminar o gargalo gerado pela indecisão dos alunos no balcão e pela demora no processamento manual dos pagamentos.
+Aumentar a eficiência do atendimento: Eliminar o gargalo gerado pela indecisão dos alunos no balcão e pela demora no processamento manual dos pagamentos.
 
-Aumentar a velocidade no atendimento: Implementar um fluxo de "clicar e retirar" imediato, permitindo que a retirada do lanche ocorra em menos de 30 segundos através de um balcão exclusivo.
+Entrega rápida: Implementar um fluxo de "clicar e retirar" imediato, permitindo que a retirada do lanche ocorra em menos de 30 segundos através de um balcão exclusivo.
  
 
 ## Justificativa
