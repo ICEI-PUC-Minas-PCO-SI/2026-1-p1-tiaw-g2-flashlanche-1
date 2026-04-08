@@ -31,10 +31,11 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação, mas sim oferecer uma visão detalhada do perfil de cada grupo de usuários. Isso inclui informações sobre seu nível de conhecimento prévio, familiaridade com tecnologia, e suas relações hierárquicas ou contextos de uso. Dessa forma, será possível entender melhor as necessidades e expectativas dos diferentes tipos de usuários, garantindo uma experiência mais eficiente e adaptada.
+Perfil Acadêmico (Alunos)
+Jovens e adultos com alta fluidez tecnológica, como a Maria Eduarda e o João Vítor. Utilizam a aplicação em contextos de extrema pressa e deslocamento entre prédios. Buscam uma interface intuitiva que minimize cliques e elimine a ansiedade das filas, priorizando a pontualidade e o tempo de descanso.
 
-> **Links úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público-alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Perfil Operacional (Equipe de Atendimento)
+Funcionários que atuam na linha de frente da lanchonete em um ambiente de alta pressão e barulho. Possuem níveis variados de familiaridade com tecnologia e precisam de um sistema prático para identificar e entregar pedidos rapidamente (via QR Code), reduzindo a sobrecarga mental e os erros manuais.
+
+Perfil de Gestão (Gerentes e Donos)
+Representado por perfis como o Carlos Henrique, focado na eficiência do negócio. Utiliza a aplicação para monitorar o fluxo de vendas e o desempenho da equipe em tempo real. Sua expectativa é obter dados confiáveis que auxiliem na tomada de decisão e na redução da taxa de desistência dos clientes nos horários de pico.
