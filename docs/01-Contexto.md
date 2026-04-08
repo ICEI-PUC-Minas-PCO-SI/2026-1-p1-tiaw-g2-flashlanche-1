@@ -3,16 +3,11 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Aqui, a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.
+O problema central está na demora do atendimento na lanchonete da PUC, onde o intervalo de apenas 10 minutos é insuficiente para absorver a demanda, gerando uma dor clara nos alunos que perdem seu tempo de descanso e chegam atrasados às aulas. Esse gargalo acontece porque todas as turmas saem juntas, enquanto alguns alunos saem mais cedo e já lotam a lanchonete, quem sai no horário certo ou pouco depois acaba desistindo da fila, já que o pouco tempo que resta precisa ser usado para se locomover até a próxima sala. A situação piora porque o estudante só começa a escolher o lanche e a pagar quando chega ao balcão, o que trava o fluxo de quem está atrás.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
 
-O grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite uma visão completa do problema.
+O contexto da aplicação é o ambiente das lanchonetes universitárias do campus, inserido em uma rotina acadêmica onde o intervalo é compartilhado por centenas de alunos de diversos cursos. Atualmente, o processo é analógico e presencial em que o aluno depende do atendimento físico no balcão para consultar o cardápio, realizar o pedido e efetuar o pagamento via cartões ou dinheiro. Não existe uma integração digital prévia para a reserva de produtos ou agendamento de retiradas, o que obriga a equipe da lanchonete a lidar com picos de demanda imprevisíveis, sobrecarga de trabalho e filas extensas que ultrapassam o tempo disponível do intervalo estudantil.
 
-> **Links úteis**:
-> - [Objetivos, problema de pesquisa e justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz certezas, suposições e dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
