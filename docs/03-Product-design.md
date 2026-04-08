@@ -25,13 +25,13 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 **✳️✳️✳️ APRESENTE O DIAGRAMA DA PROPOSTA DE VALOR PARA CADA PERSONA ✳️✳️✳️**
 
-##### Proposta de valor da persona 1 - Maria Eduarda
+##### Persona 1 - Maria Eduarda
 ![Proposta de Valor - Persona 1](images/proposta-de-valor-1.png)
 
-##### Proposta de valor da persona  2 - João Vítor
+##### Persona  2 - João Vítor
 ![Proposta de Valor - Persona 2](images/proposta-de-valor-2.png)
 
-##### Proposta de valor da persona  3 - Carlos Henrique
+##### Persona  3 - Carlos Henrique
 ![Proposta de Valor - Persona 3](images/proposta-de-valor-3.png)
 
 ## Requisitos
