@@ -6,17 +6,19 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 O problema central está na demora do atendimento na lanchonete da PUC, onde o intervalo de apenas 10 minutos é insuficiente para absorver a demanda, gerando uma dor clara nos alunos que perdem seu tempo de descanso e chegam atrasados às aulas. Esse gargalo acontece porque todas as turmas saem juntas, enquanto alguns alunos saem mais cedo e já lotam a lanchonete, quem sai no horário certo ou pouco depois acaba desistindo da fila, já que o pouco tempo que resta precisa ser usado para se locomover até a próxima sala. A situação piora porque o estudante só começa a escolher o lanche e a pagar quando chega ao balcão, o que trava o fluxo de quem está atrás.
 
 
-O contexto da aplicação é o ambiente das lanchonetes universitárias do campus, inserido em uma rotina acadêmica onde o intervalo é compartilhado por centenas de alunos de diversos cursos. Atualmente, o processo é analógico e presencial em que o aluno depende do atendimento físico no balcão para consultar o cardápio, realizar o pedido e efetuar o pagamento via cartões ou dinheiro. Não existe uma integração digital prévia para a reserva de produtos ou agendamento de retiradas, o que obriga a equipe da lanchonete a lidar com picos de demanda imprevisíveis, sobrecarga de trabalho e filas extensas que ultrapassam o tempo disponível do intervalo estudantil.
+O contexto da aplicação é o ambiente das lanchonetes universitárias do campus, que atendem a uma rotina acadêmica onde o intervalo é compartilhado por centenas de alunos de diversos cursos. Atualmente, o processo é manual e presencial em que o aluno depende do atendimento físico no balcão para consultar o cardápio, realizar o pedido e efetuar o pagamento via pix, cartões ou dinheiro. Não existe uma integração digital prévia para a reserva de produtos ou agendamento de retiradas, o que obriga a equipe da lanchonete a lidar com picos de demanda imprevisíveis, sobrecarga de trabalho e filas extensas que ultrapassam o tempo disponível do intervalo estudantil.
 
 
 ## Objetivos
 
-Aqui, você deve descrever os objetivos do trabalho, indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima.
+O objetivo geral deste trabalho é desenvolver uma plataforma digital (site ou aplicativo) que permita realizar o pedido e o pagamento de forma antecipada, para que o aluno só precise passar na lanchonete para retirar o produto rapidamente, resolvendo o problema da indecisão e das filas.
 
-Além disso, apresente alguns (pelo menos 3) objetivos específicos, dependendo de onde você pretende concentrar sua prática investigativa ou como deseja aprofundar seu trabalho.
+Otimizar o intervalo de 10 minutos: Garantir que o tempo de descanso seja suficiente para o aluno se alimentar e se deslocar entre os prédios sem chegar atrasado às aulas.
+
+Reduzir a sobrecarga na equipe e no caixa: Eliminar o gargalo gerado pela indecisão dos alunos no balcão e pela demora no processamento manual dos pagamentos.
+
+Aumentar a velocidade no atendimento: Implementar um fluxo de "clicar e retirar" imediato, permitindo que a retirada do lanche ocorra em menos de 30 segundos através de um balcão exclusivo.
  
-> **Links úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
