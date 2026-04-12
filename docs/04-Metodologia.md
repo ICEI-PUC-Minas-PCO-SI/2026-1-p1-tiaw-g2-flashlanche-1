@@ -1,88 +1,116 @@
-
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="03-Product-design.md"> Product design</a></span>
+A metodologia adotada pelo grupo combina práticas de **Design Thinking** e **Scrum**, permitindo uma abordagem colaborativa, iterativa e centrada no usuário para o desenvolvimento do projeto. Inicialmente, utilizamos o **Miro** para estruturar ideias, mapear problemas, levantar requisitos e organizar brainstormings. Essa etapa permitiu alinhar o entendimento da equipe sobre o problema e definir soluções de forma visual e colaborativa.
 
-Descreva aqui a metodologia de trabalho do grupo para abordar o problema. Inclua definições sobre os ambientes de trabalho utilizados pela equipe para desenvolver o projeto. Isso abrange a relação dos ambientes utilizados, a estrutura para a gestão do código-fonte, além da definição do processo e das ferramentas por meio dos quais a equipe se organiza (gestão de equipes).
+Na fase de prototipação, utilizamos o **Figma**, onde foram desenvolvidos wireframes e protótipos de interface, possibilitando validar a experiência do usuário antes da implementação. Para o desenvolvimento futuro do sistema, serão utilizadas as tecnologias **HTML, CSS, JavaScript e Bootstrap**, que permitirão a construção de uma aplicação web responsiva, moderna e funcional.
 
-## Controle de versão
+A organização do código-fonte será feita por meio do **Git**, com hospedagem no **GitHub**, garantindo versionamento, rastreabilidade das alterações e trabalho colaborativo entre os membros da equipe. Já o acompanhamento das tarefas será realizado pelo **GitHub Projects**, utilizando quadro Kanban para distribuir, monitorar e atualizar o andamento das atividades.
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+---
 
-A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [GitHub](https://github.com) foi utilizado para hospedagem do repositório.
+# Controle de versão
 
-O projeto segue a seguinte convenção para o nome de branches:
+A ferramenta de controle de versão adotada no projeto é o **Git**, enquanto o **GitHub** é utilizado como plataforma de hospedagem do repositório remoto.
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+O projeto seguirá a seguinte convenção de branches:
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para etiquetas:
+* `main`: versão estável e pronta para entrega;
+* `dev`: branch principal de desenvolvimento;
+* `feature/nome-da-funcionalidade`: criação de novas funcionalidades;
+* `fix/nome-do-ajuste`: correções de bugs ou ajustes específicos.
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+### Gestão de commits
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gestão de tags, merges, commits e branches é realizada. Discuta também como a gestão de issues foi feita.
+Os commits seguirão um padrão descritivo e objetivo, facilitando a identificação das alterações realizadas. Exemplos:
 
-> **Links úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+* `feat: adiciona tela inicial`
+* `fix: corrige erro no menu responsivo`
+* `docs: atualiza documentação do projeto`
 
-## Planejamento do projeto
+### Gestão de merges
 
-###  Divisão de papéis
+Os merges serão realizados preferencialmente via **Pull Requests**, permitindo revisão antes da integração ao branch principal.
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+### Gestão de tags
 
-> A equipe utiliza o Scrum como base para definição do processo de desenvolvimento. [Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
+As tags serão utilizadas para marcar versões importantes do projeto, como:
 
-- Scrum Master: nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: nome de um membro da equipe, representante dos interesses de todos os envolvidos (stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: nomes de todos os membros da equipe, pois todos os membros deverão implementar no mínimo duas telas/funcionalidades.
-- Equipe de Design: nomes dos membros da equipe que trabalharão com design.
+* `v1.0.0` – primeira entrega funcional;
+* `v1.1.0` – atualização com novas funcionalidades.
 
-> **Links úteis**:
-> - [11 passos essenciais para implantar Scrum no seu projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+### Gestão de issues
 
-### Processo
+As issues serão organizadas com etiquetas no GitHub:
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+* `bug`: erros no sistema;
+* `feature`: novas funcionalidades;
+* `enhancement`: melhorias;
+* `documentation`: ajustes na documentação.
 
-Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, o GitHub Projects, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. 
+---
 
-Coloque uma imagem da estrutura da ferramenta de controle de tarefas (Kanban) e o link do GitHub Projects.
- 
-> **Links úteis**:
-> - [GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
-> - [Planejamento e gestão ágil de projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Como criar backlogs no GitHub](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial slack](https://slack.com/intl/en-br/)
+# Planejamento do projeto
 
-## Ferramentas
+## Divisão de papéis
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+A equipe utilizará o framework Scrum como base para organização do trabalho.
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A relação dos ambientes com seus respectivos propósitos deverá ser apresentada em uma tabela que especifique e detalhe Ambiente, Plataforma e Link de Acesso. Sempre que possível, inclua também frameworks, bibliotecas e demais tecnologias utilizadas, indicando seu uso em contextos específicos, como aplicações móveis, web ou outros.
+* **Scrum Master:** responsável por acompanhar o andamento das atividades, remover impedimentos e garantir aplicação da metodologia ágil.
+* **Product Owner:** responsável por priorizar demandas e alinhar o projeto aos objetivos definidos.
+* **Equipe de Desenvolvimento:** todos os integrantes do grupo, responsáveis pela implementação técnica.
+* **Equipe de Design:** membros responsáveis pela criação das interfaces e protótipos no Figma.
 
-Liste todas as ferramentas que foram empregadas no projeto. Inclua itens como: (1) editor de código, (2) ferramentas de comunicação, (3) ferramentas de diagramação, (4) plataformas de hospedagem, entre outras.
+> Os nomes dos integrantes devem ser inseridos conforme a composição real da equipe.
 
-⚠️ EXEMPLO ⚠️ os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+---
 
-| Ambiente                            | Plataforma                         | Link de acesso                       |
-|-------------------------------------|------------------------------------|--------------------------------------|
-| Processo de Design Thinking         | Miro                               | https://....   ⚠️ EXEMPLO ⚠️        |
-| Repositório de código fonte         | GitHub                             | https://....   ⚠️ EXEMPLO ⚠️        |
-| Documentos do projeto               | GitHub                             | http://....    ⚠️ EXEMPLO ⚠️        |
-| Gerenciamento do projeto            | GitHub Projects                    | http://....    ⚠️ EXEMPLO ⚠️        |
-| Projeto de interface                | Figma                              | http://....    ⚠️ EXEMPLO ⚠️        |
-| Hospedagem                          | Vercel                             | http://....    ⚠️ EXEMPLO ⚠️        |
+## Processo
+
+O processo de desenvolvimento seguirá duas abordagens complementares:
+
+### Design Thinking
+
+Aplicado nas fases iniciais para:
+
+1. Imersão no problema;
+2. Definição das necessidades do usuário;
+3. Ideação de soluções;
+4. Prototipação no Figma;
+5. Validação.
+
+### Scrum
+
+Durante o desenvolvimento, serão realizados ciclos iterativos (sprints), com:
+
+* definição de backlog;
+* distribuição de tarefas;
+* acompanhamento no GitHub Projects;
+* reuniões periódicas para alinhamento.
+
+O quadro Kanban no GitHub Projects será utilizado para organizar tarefas em colunas como:
+
+* Backlog
+* Em andamento
+* Em revisão
+* Concluído
+
+---
+
+# Ferramentas
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas, conforme a tabela abaixo:
+
+| Ambiente                    | Plataforma                       | Link de acesso                                                                                   |
+| --------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Estruturação do projeto     | Miro                             | [https://miro.com](https://miro.com)                                                             |
+| Prototipação de interface   | Figma                            | [https://figma.com](https://figma.com)                                                           |
+| Repositório de código-fonte | GitHub                           | [https://github.com](https://github.com)                                                         |
+| Controle de versão          | Git                              | [https://git-scm.com](https://git-scm.com)                                                       |
+| Gerenciamento de projeto    | GitHub Projects                  | [https://github.com/features/project-management](https://github.com/features/project-management) |
+| Desenvolvimento front-end   | HTML, CSS, JavaScript, Bootstrap | [https://getbootstrap.com](https://getbootstrap.com)                                             |
+| Editor de código            | Visual Studio Code               | [https://code.visualstudio.com](https://code.visualstudio.com)                                   |
+
+---
+
+Essa metodologia garante organização, colaboração eficiente entre os membros e maior controle sobre todas as etapas do desenvolvimento do projeto.
+
