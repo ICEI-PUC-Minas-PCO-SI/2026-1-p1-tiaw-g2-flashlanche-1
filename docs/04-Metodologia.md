@@ -60,7 +60,6 @@ A equipe utilizará o framework Scrum como base para organização do trabalho.
 * **Equipe de Desenvolvimento:** todos os integrantes do grupo, responsáveis pela implementação técnica.
 * **Equipe de Design:** membros responsáveis pela criação das interfaces e protótipos no Figma.
 
-> Os nomes dos integrantes devem ser inseridos conforme a composição real da equipe.
 
 ---
 
